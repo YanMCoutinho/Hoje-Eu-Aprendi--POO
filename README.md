@@ -1,5 +1,5 @@
-# :books: Hoje eu aprendi - Matriz
-<p>Meu primeiro exercício sobre Objetos</p>
+# :books: Hoje eu aprendi - Objetos
+<p>Meu segundo exercício sobre Objetos</p>
 
 <br>
 <br>
